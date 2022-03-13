@@ -1,0 +1,16 @@
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\Bankamatik.exe
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\Bankamatik.deps.json
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\Bankamatik.runtimeconfig.json
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\Bankamatik.runtimeconfig.dev.json
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\Bankamatik.dll
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\ref\Bankamatik.dll
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\bin\Debug\net5.0\Bankamatik.pdb
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.csproj.AssemblyReference.cache
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.AssemblyInfoInputs.cache
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.AssemblyInfo.cs
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.csproj.CoreCompileInputs.cache
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.dll
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\ref\Bankamatik.dll
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.pdb
+D:\Visual Studio Çalışmalar\Bankamatik\Bankamatik\obj\Debug\net5.0\Bankamatik.genruntimeconfig.cache
